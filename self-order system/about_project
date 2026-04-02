@@ -1,0 +1,27 @@
+ABOUT THIS PROJECT
+
+This is a group project which require 2-3 team members which was developed to replace the current inefficient system in ordering system. This new system will ask the customer to choose their preffered menu, quantity and payment method. Then, it will display the receipt of the order with the total amount which will be sent to the chefs behind the kitchen to start cooking. The code was done by me and my partner, Nur Azira Atikah.
+
+🔹 Project Description: Restaurant Self-Order System
+	•	Replaces manual ordering with a digital self-order system
+	•	Old system requires staff to take and write orders manually
+	
+    Manual process can cause:
+	•	Wrong orders
+	•	Longer waiting times
+	•	Higher costs due to food wastage
+
+	New system allows customers to:
+	•	Select menu items
+	•	Choose quantity
+	•	Pick payment method
+
+	Orders are sent directly to the kitchen automatically
+
+	Benefits of the system:
+	•	Reduces human error
+	•	Saves time during ordering
+	•	No need to queue, especially during peak hours
+	•	More convenient and user-friendly
+	•	Improves customer satisfaction
+	•	Helps restaurants operate more efficiently
